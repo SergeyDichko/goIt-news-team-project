@@ -2,17 +2,16 @@
   "name": "goIt-news-team-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://KovalenkoMaks.github.io/goIt-news-team-project",
+  "homepage": "https://sergeydichko.github.io/goIt-news-team-project",
   "scripts": {
     "start": "parcel src/*.html --open",
     "build": "parcel build src/*.html --public-url /goIt-news-team-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://sergeydichko.github.io/goIt-news-team-project.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
